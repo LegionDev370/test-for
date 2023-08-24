@@ -3,6 +3,10 @@ const app = express();
 
 const number = 20
 
+const saySimba = () => {
+    
+}
+
 const age = 25;
 const word = "Hello, world!";
 
